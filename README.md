@@ -50,18 +50,3 @@ Number_Guessing_Game/
 ├── game.py          # Main game file
 └── README.md        # This file
 ```
-
-## 🚀 Future Enhancements
-
-- Add difficulty levels (easy, medium, hard)
-- Display number of attempts taken
-- Add a scoring system
-- Implement a play again option
-
-## 📄 License
-
-This project is open source and available for educational purposes.
-
----
-
-**Enjoy the game! Can you guess the lucky number?** 🎲
