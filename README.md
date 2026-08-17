@@ -20,7 +20,7 @@ A simple and fun command-line number guessing game built with Python. Challenge 
 
 ## 🛠️ Requirements
 
-- Python 3.x
+- Python 3.13.0
 - No external dependencies
 
 ## 📝 Usage
