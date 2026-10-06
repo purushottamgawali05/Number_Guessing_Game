@@ -16,7 +16,7 @@ A simple and fun command-line number guessing game built with Python. Challenge 
 - Random number generation between 1 and 50
 - Real-time feedback on guesses (too high/too low)
 - Simple and interactive command-line interface
-- Continuous gameplay until you win
+- Continuous gameplay until you win or quit
 
 ## 🛠️ Requirements
 
